@@ -1,0 +1,18 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.thomaskim.taskbloom",
+      "sha256_cert_fingerprints": ["12:CD:3E:DA:3C:30:B6:80:67:B6:EA:CF:45:33:FA:51:5F:21:02:49:FA:76:B5:D5:C2:A4:F7:5A:D2:70:80:0D"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.thomaskim.weekbloom",
+      "sha256_cert_fingerprints": ["00:72:87:F8:84:20:51:3B:32:6E:0A:33:F2:83:FC:A3:36:79:9F:ED:87:EC:3A:F0:A8:A9:48:2C:2E:85:D5:A6"]
+    }
+  }
+]
