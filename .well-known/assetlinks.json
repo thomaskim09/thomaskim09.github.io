@@ -21,7 +21,8 @@
       "namespace": "android_app",
       "package_name": "com.thomaskim.weekbloom",
       "sha256_cert_fingerprints": [
-        "00:72:87:F8:84:20:51:3B:32:6E:0A:33:F2:83:FC:A3:36:79:9F:ED:87:EC:3A:F0:A8:A9:48:2C:2E:85:D5:A6"
+        "00:72:87:F8:84:20:51:3B:32:6E:0A:33:F2:83:FC:A3:36:79:9F:ED:87:EC:3A:F0:A8:A9:48:2C:2E:85:D5:A6",
+        "85:8A:AD:33:F3:63:3D:BD:B7:0E:D4:EB:26:1B:BB:87:4E:6C:07:4F:DE:CB:9C:ED:6B:73:69:38:CF:8B:0A:9B"
       ]
     }
   }
